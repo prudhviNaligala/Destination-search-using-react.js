@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.image-container {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 30px;
+}
+
+.images {
+  height: 260px;
+  width: 260px;
+}
